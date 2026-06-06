@@ -14,5 +14,5 @@ An application that presents meaningful insights through data storytelling using
 ```bash
    pip install -r requirements.txt
 2.Run the application:
-```bash
+
    python -m streamlit run story.py
